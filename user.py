@@ -14,8 +14,4 @@ def sub(a,b):
     return a-b
 print(sub(3,2))
 
-# def multiple from feature
-
-def multiple(a,b):
-    return a*b
-print(multiple(4,3))
+# def multiple 
