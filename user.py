@@ -5,3 +5,7 @@ for a in i:
 
 b=9
 print(a,b)
+
+def add(a,b):
+    return a+b
+print(add(2,3))
